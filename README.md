@@ -50,8 +50,8 @@ others: Output = 0
 
 ### Simulation output
 
-[Design simulation output]  
-[Simulation output]
+![Design simulation output](screenshots/design_output.PNG "ALU Design Simulation - Xilinx vivado")
+![Waveform simulation output](screenshots/sim_output.PNG "ALU waveform Simulation - Xilinx vivado")
 
 ## Author
 Rashmi M S  
